@@ -25,7 +25,7 @@ public class CvSquareSpiral extends Canvas {
     /**
      * number of squares to draw in a spiral of squares
      */
-    private int k;
+    final private int k;
 
     /**
      * a scale factor to determine how tight the spiral is. Must be between 0
